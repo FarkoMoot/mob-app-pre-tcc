@@ -18,7 +18,7 @@ export default function Home() {
   const [start, setStart] = useState(0);
 
   async function findGames( req, res) {
-    res = await api2.get('findStart');
+    res = await api2.get('/findStart');
 
     //console.log(res.data[0].item1);
     setRecebeDados( prevState => (res.data) )
