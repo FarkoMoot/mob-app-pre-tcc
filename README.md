@@ -29,4 +29,4 @@ O aplicativo movel e alimentado por uma [Api propria](https://github.com/FarkoMo
 
 ## Projeto - Especificaçoes tecnicas
 
-O aplicativo movel foi construido usando React Native e JavaScript
+O aplicativo movel foi construido usando [React Native](https://reactnative.dev/) e [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript).
